@@ -1,4 +1,7 @@
 #can declare string with single or double quotes
 x="Amina"
 y='Amina'
-print(x, y)
+if x==y:
+    print("Yes, x and y are equal despite quote difference")
+else:
+    print("No, x and y aren't equal")
