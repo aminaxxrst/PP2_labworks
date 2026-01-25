@@ -22,6 +22,6 @@ print(s.center(4)) #Amina note:it doesn't cut the word if in center the length o
 s="Aminaaa"
 print(s.count('a')) #3
 print(s.count('A')) #1, case-sensitive, a is not A
-print(s.count('a', 2, 5)) #1 a in (2,5) 'ina'
+print(s.count('a', 2, 5)) #1 a in [2,5) 'ina'
 s="ababaaba"
 print(s.count('ab')) #3
