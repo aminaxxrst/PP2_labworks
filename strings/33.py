@@ -12,7 +12,7 @@ s1=s.center(10) #10-4=6/2=3, 3 spaces
 print(f"'{s1}'") #'   book   '
 
 s="book"
-s1=s.center(20, '-') #20-4=16/2=8
+s1=s.center(20, '-')  #20-4=16/2=8
 print(s1) #--------book--------
 
 s="Amina"
