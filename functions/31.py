@@ -1,4 +1,4 @@
-#Regular arguments with *args
+#Regular arguments with *args, regular parameters must come before *args
 def my_function(greeting, *names):
   for name in names:
     print(greeting, name) 
