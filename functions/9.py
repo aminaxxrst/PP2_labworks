@@ -1,4 +1,4 @@
-#arguments- variables inside a bracket next to function_name
+#parameter- variables inside a bracket next to function_name
 def my_function(fname):
     print(fname+" Refsnes")
 
