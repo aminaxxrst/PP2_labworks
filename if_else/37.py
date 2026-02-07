@@ -3,3 +3,4 @@
 score=85
 if score>90:
     #it causes an error
+    pass #so for that reason, you should write pass
