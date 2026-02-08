@@ -4,3 +4,4 @@ def myfunc():
   print(x)
 
 myfunc() #300
+#print(x) x is not available outside of a function
