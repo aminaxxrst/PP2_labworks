@@ -5,6 +5,6 @@ def echo_generator():
     print("Received:", received)
 
 gen = echo_generator()
-next(gen) # Prime the generator
+next(gen)
 gen.send("Hello") #Received: Hello
 gen.send("World") #Received: World
