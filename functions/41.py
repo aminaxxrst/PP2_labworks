@@ -6,3 +6,4 @@ def myfunc():
   myinnerfunc()
 
 myfunc() #300
+#print(x) x is not available outside of the function
