@@ -1,4 +1,4 @@
-#close() method stops the generator
+#close()- method stops the generator
 def my_gen():
   try:
     yield 1
