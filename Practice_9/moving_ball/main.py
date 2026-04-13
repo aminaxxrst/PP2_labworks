@@ -1,6 +1,6 @@
 import pygame
 import sys
-import ball 
+import ball
 
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
