@@ -15,9 +15,6 @@ def insert_contact(name, phone):
 
     print("Contact added!")
 
-
-
-
 from connect import connect
 
 def search_by_name(name):
