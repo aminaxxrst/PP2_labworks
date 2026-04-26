@@ -1,0 +1,15 @@
+#super()- function that helps child class to inherit all the methods and properties from its parent
+class Person:
+    def __init__(self, fname, lname):
+        self.fname=fname
+        self.lname=lname
+    
+    def printname(self):
+        print(self.fname, self.lname)
+
+class Student(Person):
+    def __init__(self, fname, lname):
+        super().__init__(fname, lname)
+
+x=Student("Amina", 18) #Amina 18
+x.printname()

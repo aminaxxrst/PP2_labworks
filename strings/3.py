@@ -1,0 +1,5 @@
+a="""We don't talk anymore, we don't talk anymore
+We don't talk anymore like we used to do
+We don't love anymore
+What was all of it for?"""
+print(a)

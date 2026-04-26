@@ -1,0 +1,1 @@
+print("Hello, world") #comment can be written in the end of a line

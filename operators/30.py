@@ -1,0 +1,2 @@
+#left-to-right evaluation
+print(5+4-7+3) #5
